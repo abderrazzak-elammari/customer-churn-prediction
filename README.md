@@ -17,7 +17,7 @@ Build a production-ready ML pipeline that identifies customers likely to churn, 
 
 [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) — IBM sample dataset (7 043 rows × 21 features).
 
-## 🔧 Pipeline
+##  Pipeline
 
 | Step | Details |
 |------|---------|
@@ -52,6 +52,6 @@ jupyter notebook customer_churn_prediction.ipynb
 └── requirements.txt                  # Dependencies
 ```
 
-## 📜 License
+##  License
 
 MIT
