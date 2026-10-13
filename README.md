@@ -1,4 +1,4 @@
-# 📉 Customer Churn Prediction
+#  Customer Churn Prediction
 
 > End-to-end machine learning project: predict telecom customer churn using XGBoost, SMOTE, and SHAP interpretability.
 
@@ -9,11 +9,11 @@
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 Build a production-ready ML pipeline that identifies customers likely to churn, enabling proactive retention strategies.
 
-## 📊 Dataset
+##  Dataset
 
 [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) — IBM sample dataset (7 043 rows × 21 features).
 
@@ -29,14 +29,14 @@ Build a production-ready ML pipeline that identifies customers likely to churn, 
 | **Evaluation** | F1-score, ROC-AUC, confusion matrix, precision-recall curve |
 | **Interpretability** | Feature importance + SHAP summary plot |
 
-## 🚀 Quick Start
+##  Quick Start
 
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn xgboost imbalanced-learn shap
 jupyter notebook customer_churn_prediction.ipynb
 ```
 
-## 📈 Results
+##  Results
 
 | Metric | Score |
 |--------|-------|
@@ -44,7 +44,7 @@ jupyter notebook customer_churn_prediction.ipynb
 | **ROC-AUC** | ~0.85 |
 | **Top features** | Contract type, tenure, monthly charges |
 
-## 📁 Structure
+##  Structure
 
 ```
 ├── customer_churn_prediction.ipynb   # Main notebook
